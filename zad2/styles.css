@@ -39,3 +39,6 @@ td a:visited {
 table, th, td {
 	border: 1px solid black;
 }
+div{
+  background-color: gray;
+}
